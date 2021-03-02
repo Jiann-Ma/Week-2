@@ -6,7 +6,7 @@ function calculate(min, max){
         min++;
     }
     document.write(sum);
-    }
+}
 
 
 calculate(1, 3); // 你的程式要能夠計算 1+2+3，最後在 console 印出 6
