@@ -5,7 +5,7 @@ function calculate(min, max){
         sum = sum + min;
         min++;
     }
-    document.write(sum);
+    console.log(sum);
 }
 
 
