@@ -3,7 +3,6 @@
 def maxProduct(nums):            #nums是個list
 # 請用你的程式補完這個函式的區塊
     count = 0
-    maxSet = 0
     eachSet = 0
     sumSet = []
     #所有不自我重複的組合
